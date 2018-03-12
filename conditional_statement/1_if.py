@@ -40,7 +40,7 @@ print(1 in [1, 2, 3])
 print("1 in [1, 2, 3] : ", end='')
 print(1 not in [1, 2, 3])
 
-# pass  (java의 continue)
+# pass  :  아무것도 하지 않을 때
 if 1 in [1, 2, 3]:
     pass
 else:
