@@ -79,9 +79,3 @@ print()
 # 다중상속 시 부모생성자 여러 번 호출될 시 해결법
 # http://bluese05.tistory.com/5
 
-
-
-
-
-
-
